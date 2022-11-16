@@ -24,8 +24,15 @@ We broke up the check out time by gender. Results were similar. Most of the user
 
 ![Trips by Weekday per Hour](Trips_by_Weekday_per_Hour.PNG)
 
+This heatmap shows the trips by weekday per hour. The darker the spot the more trips. This graph shows during the workweek the peak hours are between 07:00-09:00 and 16:00-19:00. This corresponds with our analysis that users are checking out the bikes before and after work. We see the reverse on the weekends, peak hours are between 10:00-18:00. 
+
 ![Trips by Gender (Weekday per Hour)](Trips_by_Gender_Weekday_per_hour.PNG)
 
+We broke down the heatmap above by gender. We see similar results. However, we see larger results with the male than the other genders.
+
 ![User Trips by Gender by Weekday](User_Trips_by_Gender_by_Weekday.PNG)
+
+This graph shows user trips broken down by weekday and by gender. Most of the users are subscribers and the trend follows here. The busier days are the weekdays: Monday, Tuesday, Thursday, and Friday. 
+For the customers, they tend to use the bikes during the weekends. The busier days are Saturday and Sunday and the data is equal for all genders.
 
 ## Summary
