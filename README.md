@@ -36,3 +36,9 @@ This graph shows user trips broken down by weekday and by gender. Most of the us
 For the customers, they tend to use the bikes during the weekends. The busier days are Saturday and Sunday and the data is equal for all genders.
 
 ## Summary
+
+We found that a bike-sharing program would be successful in the Des Moines area. The analysis shows that a bike-sharing program is popular with working individuals and sees high usage before and after working hours. These individuals are also not just one-time users, they are subscribers, meaning they are setting up an automatic recurring payment. The users are also only using the bikes short term (typically between 15-20 minutes). Since the bike is not used long term, we can get more users on the bike quickly. 
+
+Additional suggested analysis:
+- show the length of time a user has been a subscriber
+- show the length of time a bike can run before it needs to be repaired
