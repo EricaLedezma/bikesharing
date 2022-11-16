@@ -6,7 +6,7 @@ The purpose of this analysis is to prove to investors that a bike-sharing progra
 ## Results
 Analysis was performed on data from NYC bike trip data from the month of August 2019. Here are the results:
 
-
+![Check Out Times for Users](Check Out Times for Users.PNG)
 
 
 
