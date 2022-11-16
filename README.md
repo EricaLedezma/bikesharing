@@ -35,6 +35,9 @@ We broke down the heatmap above by gender. We see similar results. However, we s
 This graph shows user trips broken down by weekday and by gender. Most of the users are subscribers and the trend follows here. The busier days are the weekdays: Monday, Tuesday, Thursday, and Friday. 
 For the customers, they tend to use the bikes during the weekends. The busier days are Saturday and Sunday and the data is equal for all genders.
 
+Tableau Analysis:
+[link to dashboard](https://public.tableau.com/shared/PCXJDKWZ2?:display_count=n&:origin=viz_share_link)
+
 ## Summary
 
 We found that a bike-sharing program would be successful in the Des Moines area. The analysis shows that a bike-sharing program is popular with working individuals and sees high usage before and after working hours. These individuals are also not just one-time users, they are subscribers, meaning they are setting up an automatic recurring payment. The users are also only using the bikes short term (typically between 15-20 minutes). Since the bike is not used long term, we can get more users on the bike quickly. 
