@@ -8,6 +8,8 @@ Analysis was performed on data from NYC bike trip data from the month of August 
 
 ![August Peak Hours](August_Peak_Hours.PNG)
 
+Data shows that the peak hours of use were after working hours, between 17:00-19:00. The third largest was in the 08:00 hour, before work starts. People are using before and after work hours.
+
 ![Check Out Times for Users](Check_Out_Times_For_Users.PNG)
 
 ![Gender Breakdown](Gender_Breakdown.PNG)
